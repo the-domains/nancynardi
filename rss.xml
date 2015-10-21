@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NancyNardi]]></title>
+        <description><![CDATA[NancyNardi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 21 Oct 2015 16:21:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[8mm Vintage Video]]></title>
+            <description><![CDATA[<article><h1>8mm Vintage Video</h1><p>Happy 49th Anniversary Mom & Dad - #tbt throwback to Duluth, #1966 🎥 #8mm #bellandhowell @georgialeenardi</p><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11820558_1661840570771266_287048646_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/7Lez3Av5gC/?taken-by=nancynardi</link>
+            <guid isPermaLink="false">926319eb-b797-4d33-802e-15064bb2082d</guid>
+            <pubDate>Wed, 21 Oct 2015 16:21:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
