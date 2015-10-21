@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[NancyNardi]]></title>
         <description><![CDATA[NancyNardi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nancynardi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 16:21:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 21 Oct 2015 16:21:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nancynardi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Peace Puppy]]></title>
+            <description><![CDATA[<article><h1>Peace Puppy</h1><p>Happy #nationaldogday to this guy #chihuahua #gizmo 🐒</p><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s640x640/sh0.08/e35/11421985_478887405605543_308058421_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/62TJqov5nT/?taken-by=nancynardi</link>
+            <guid isPermaLink="false">65d4c0b6-7258-4fb1-8f62-3134c2fea71c</guid>
+            <pubDate>Wed, 21 Oct 2015 16:21:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[8mm Vintage Video]]></title>
             <description><![CDATA[<article><h1>8mm Vintage Video</h1><p>Happy 49th Anniversary Mom & Dad - #tbt throwback to Duluth, #1966 🎥 #8mm #bellandhowell @georgialeenardi</p><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11820558_1661840570771266_287048646_n.jpg"></article>]]></description>
